@@ -1,4 +1,4 @@
-#Implementation of a simple CNN for Image Classifcation in Keras
+# Implementation of a simple CNN for Image Classifcation in Keras
 
 Trained on CIFAR10 dataset. Gets to about 75% accuracy after 25 epochs.
 
